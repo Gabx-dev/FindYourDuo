@@ -1,7 +1,7 @@
 # Find Your Duo
 An app that helps you find your gaming duo! Made with React in the frontend and Express in the backend.
 
-![Landing page with two sections. The first one has 9 games arranged in two rows - League of Legends, Valorant, Counter-Strike: Global Offensive, Dota 2, Pokémon Unite, World of Warcraft, Garena Free Fire, Red Dead Redemption 2 and Roblox. The second  has a banner for posting an ad to find your duo(screenshots/landing-page.png)
+![Landing page with two sections. The first one has 9 games arranged in two rows - League of Legends, Valorant, Counter-Strike: Global Offensive, Dota 2, Pokémon Unite, World of Warcraft, Garena Free Fire, Red Dead Redemption 2 and Roblox. The second  has a banner for posting an ad to find your duo](screenshots/landing-page.png)
 
 ![Create ad dialog with a form containing various fields, including in-game nickname, game title, years playing the game, available week days and time of the day](screenshots/ad-dialog.jpg)
 
